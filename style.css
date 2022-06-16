@@ -1,0 +1,114 @@
+body {
+  background-color: #D4DDEE;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 1150px;
+  margin: 0 auto;
+
+}
+
+.logo {
+  float: left;
+  margin-top: 110px;
+  background: #fff;
+  width: 750px;
+  height: 416px;
+}
+
+.logo img {
+  margin-left: 241px;
+  width: 267px;
+  height: 94px;
+  margin-top: 99px;
+}
+
+.logo p {
+  text-align: center;
+  font-size: 16px;
+}
+
+.logo p span {
+  font-weight: bold;
+}
+
+.form-div {
+  float: right;
+  margin-top: -416px;
+  margin-left: 16px;
+  border: 3px solid #fff;
+  height: 320px;
+  width: 384px;
+}
+
+.acesso {
+  margin-top: 36px;
+  text-align: center;
+}
+
+.info {
+  margin-left: 45px;
+  color: #9F689D;
+}
+
+.email {
+  margin-left: 30px;
+}
+
+.senha {
+  margin-left: 30px;
+}
+
+.form2 {
+  text-align: center;
+  margin-top: -76px;
+  margin-left: 16px;
+  float: right;
+  width: 383px;
+  height: 70px;
+  border: 3px solid #fff;
+}
+.form2 p {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.form2 a{
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+form input {
+  margin-left: 5px;
+}
+
+.check{
+  margin-left: 30px;
+}
+
+.button{
+  margin-left: 47px;
+  padding: 6px 14px;
+  margin-bottom: 20px;
+}
+
+.form-div a {
+  margin-left: 65px;
+}
+
+.footer { 
+  text-align: center;
+  margin-top: 530px;
+  height: 30px;
+  background-color: #B5CEFE;
+}
+
+.copy {
+  padding-top: 5px;
+}
+
+
