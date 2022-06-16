@@ -1,5 +1,5 @@
 # Orkut
-![Design preview for the login pagen](/login.jpg)
+![Design preview for the login page](/login.jpg)
 
 Retro login page of orkut.
 
